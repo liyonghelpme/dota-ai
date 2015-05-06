@@ -1,0 +1,1 @@
+An AI project of Warcraft3's custom map DOTA, using ANN  (Artificial Neural Network) programming.
